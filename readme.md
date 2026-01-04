@@ -15,3 +15,10 @@ feature2
 feature3
 1. aa
 2. bb
+
+--------
+feature4
+1. aa
+2. bb
+3. cc
+4. dd
